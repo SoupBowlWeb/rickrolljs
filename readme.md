@@ -7,7 +7,7 @@ RickRoll.js Rick Rolls a user when a given keyword is entered on the web page.
 <script src="jquery.js"></script>
 <script src="/js/rickroll.js"></script>
 <script>
-    $().rickroll();
+    $().rickroll(); // Default keyword is 'rick'
 </script>
 
 ```
